@@ -1,0 +1,8 @@
+aiofiles
+loguru
+streamlit
+matplotlib
+python-dotenv
+seaborn
+pandas
+aiohttp
